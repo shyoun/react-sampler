@@ -30,3 +30,28 @@
     transform: rotate(360deg);
   }
 }
+
+.AppHeader {
+  background-color: green;
+  display: inline-block;
+}
+
+.AppSideBar {
+  background-color: red;
+}
+
+.AppContent {
+  background-color: black;
+}
+
+.NavTop {
+  display: inline-block;
+}
+
+.NavTopRight {
+  float: right;
+}
+
+nav {
+  display: block;
+}
